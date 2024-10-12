@@ -1,0 +1,28 @@
+{
+  "id": "com.tobybonhof.ithocvewifi",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "NRG.Watch"
+  },
+  "description": {
+    "en": "Control your NRG.Watch Itho CVE Wifi Module"
+  },
+  "category": [
+    "internet"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Toby Bonhof"
+  },
+  "brandColor": "#0F2C8F"
+}

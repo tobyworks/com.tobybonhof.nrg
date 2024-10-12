@@ -1,0 +1,14 @@
+{
+  "extends": "athom/homey-app",
+  "rules": {
+    "import/extensions": "off"
+  },
+  "settings" : {
+    "import/resolver": {
+      "node": {
+        "paths": ["src", "node_modules"],
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
+  }
+}
