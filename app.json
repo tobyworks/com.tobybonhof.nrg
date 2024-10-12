@@ -26,6 +26,7 @@
     "name": "Toby Bonhof"
   },
   "brandColor": "#0F2C8F",
+  "source": "https://github.com/tobyworks/com.tobybonhof.nrg",
   "drivers": [
     {
       "name": {
