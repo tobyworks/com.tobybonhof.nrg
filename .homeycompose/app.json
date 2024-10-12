@@ -1,6 +1,6 @@
 {
   "id": "com.tobybonhof.ithocvewifi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
@@ -26,5 +26,4 @@
   },
   "brandColor": "#0F2C8F",
   "source": "https://github.com/tobyworks/com.tobybonhof.nrg"
-
 }
